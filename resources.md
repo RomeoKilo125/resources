@@ -113,6 +113,7 @@ More stuff for ideas and to keep abreast of the latest developments.
 - [PC upgrade guide](http://www.pcgamer.com/the-easy-pc-upgrade-guide/)
 - [Bootcamp Prework](https://coding-bootcamp-fsf-prework.readthedocs-hosted.com/en/latest/) - Useful to keep for new machine setup
 - [Bootcamp Whiteboarding](https://coding-bootcamp-whiteboarding-algorithms.readthedocs-hosted.com/en/latest/) - a tutorial for the dreaded whiteboarding interview
+- [BoTW Korok Seed Locations](https://www.ign.com/wikis/the-legend-of-zelda-breath-of-the-wild/Korok_Seed_Locations)
 - [Oxygen Not Included Wiki](https://oxygennotincluded.fandom.com/wiki/Oxygen_Not_Included_Wiki)
 - [ONI Assistant](https://oni-assistant.com/)
 - Mac Terminal Command : `nc towel.blinkenlights.nl 23`
