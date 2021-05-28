@@ -127,7 +127,6 @@ More stuff for ideas and to keep abreast of the latest developments.
 - devzstudio.emoji-snippets
 - eamodio.gitlens
 - emily-curry.base16-tomorrow-dark-vscode
-- formulahendry.auto-rename-tag
 - mechatroner.rainbow-csv
 - PKief.material-icon-theme
 - rid9.datetime
