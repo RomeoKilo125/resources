@@ -59,6 +59,13 @@ Recommended starter courses:
 - [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/) - Emmet is a shortcut system that is VERY common. In fact, it's built into VS Code.
 - [Interactive Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)
 
+## Teaching Games
+
+- [CSS Diner](https://flukeout.github.io/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+- [Grid Garden](https://cssgridgarden.com/)
+
 ## Inspiration
 
 Nothing much here just a place for people to put pretty things to get ideas.
