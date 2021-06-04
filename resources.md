@@ -4,11 +4,12 @@ This is a list of everything I currently use or have used in the past that I tho
 
 ## General Tools
 
-- [Github](https://github.com/)
 - [GitLab](https://gitlab.com/users/sign_in) - an independent alternative to Github that is not tied to any large corporation.
-- [npm](https://www.npmjs.com/)
-- [Heroku](https://dashboard.heroku.com/)
 - [NameCheap](https://www.namecheap.com/) - domain names quick and cheap
+- [GIMP](https://www.gimp.org/) - a free alternative to photoshop, not as feature rich, but I like it.
+- [Insomnia](https://insomnia.rest/download) - api testing platform
+- [Green Geeks](https://www.greengeeks.com/) - Fast, Secure, Eco-friendly Hosting
+- [Signal](https://signal.org/) - secure messaging
 
 ## YouTube Channels
 
