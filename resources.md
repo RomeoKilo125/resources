@@ -128,13 +128,12 @@ More stuff for ideas and to keep abreast of the latest developments.
 
 ## VSCode Extensions
 
-- brunnerh.insert-unicode
 - CoenraadS.bracket-pair-colorizer-2
 - DavidAnson.vscode-markdownlint
 - dbaeumer.vscode-eslint
-- devzstudio.emoji-snippets
 - eamodio.gitlens
 - emily-curry.base16-tomorrow-dark-vscode
+- formulahendry.auto-rename-tag
 - mechatroner.rainbow-csv
 - PKief.material-icon-theme
 - rid9.datetime
