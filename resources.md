@@ -157,3 +157,5 @@ More stuff for ideas and to keep abreast of the latest developments.
   - This will visualize the common words across all the JDs.
   - See the big words? Use those words on your resume -- authentically.
   - If you don’t have the skill, that tells you what your knowledge gaps are. Nice little 2 for 1 special in this activity.
+- How do I write a cover letter
+![cover letter instructions](./cover-letter.jpg)
