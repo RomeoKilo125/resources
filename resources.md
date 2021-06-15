@@ -151,3 +151,9 @@ More stuff for ideas and to keep abreast of the latest developments.
 
 - Do NOT put your phone number on ANY website.
 - Create an email address that's JUST for jobs and job hunting. Use that one on these sites. Put it on your resume.
+- Which jobs do I apply to?
+  - Take 10 job descriptions for companies you want to work for.
+  - Copy the text and paste it into Word Clouds.
+  - This will visualize the common words across all the JDs.
+  - See the big words? Use those words on your resume -- authentically.
+  - If you don’t have the skill, that tells you what your knowledge gaps are. Nice little 2 for 1 special in this activity.
