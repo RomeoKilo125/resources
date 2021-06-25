@@ -2,6 +2,30 @@
 
 This is a list of everything I currently use or have used in the past that I thought was worth keeping links to.
 
+> This list is curated by a human being with their own perspective, it is neither exhaustive nor is it intended to promote any particular agenda.
+
+## KNOW YOUR HISTORY
+
+
+- c.830 CE [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_M%C5%ABs%C4%81_al-Khw%C4%81rizm%C4%AB): Popularized the concept of the algorithm
+- c.850 CE [Banū Mūsā](https://en.wikipedia.org/wiki/Ban%C5%AB_M%C5%ABs%C4%81): Described what appears to be the first programmable machine
+- 1837 [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage): Originated the concept of a programmable general-purpose computer
+- 1847 [George Boole](https://en.wikipedia.org/wiki/George_Boole): Formalized Boolean algebra, the basis for digital logic and computer science
+- 1852 [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace): Often regarded as the first computer programmer
+- 1936 [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing): Conceived of the stored program concept
+- 1945 [John von Neumann (prounounced von-NOY-man)](https://en.wikipedia.org/wiki/John_von_Neumann): Formulated the von Neumann architecture upon which most modern computers are based
+- 1947 [Kathleen Booth](https://en.wikipedia.org/wiki/Kathleen_Booth): Invented the first assembly language
+- 1952 [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper): wrote the first compiler (A-O), which heavily influenced the COBOL language
+- 1953 [Katherine Johnson](https://en.wikipedia.org/wiki/Katherine_Johnson): calculated the orbital trajectories for NASA's first crewed space missions BY HAND.
+- 1962 [Roy Clay](https://en.wikipedia.org/wiki/Roy_Clay): founding member of the computer division at Hewlett-Packard
+- 1967 [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie): pioneered the C programming language and the Unix computer operating system
+- 1967 [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson): Created the Unix operating system, the B programming language
+- 1971 [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29): developed the concepts of asynchronous software, priority scheduling, end-to-end testing
+- 1972 [Clarence "Skip" Ellis](https://en.wikipedia.org/wiki/Clarence_Ellis_%28computer_scientist%29): the first African-American to earn a Ph.D. in Computer Science, the icon-based GUI, object-oriented programming languages, and groupware systems
+- 1982 [Marsha Rhea Williams](https://en.wikipedia.org/wiki/Marsha_Rhea_Williams): first African American woman to earn a Ph.D. in computer science, advocate for greater minority representation in STEM fields
+- 1989 [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee): Invented World Wide Web
+- 1991 [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds): Created the first version of the Linux kernel
+- 1994 [Sally Floyd](https://en.wikipedia.org/wiki/Sally_Floyd): Founded the field of Active Queue Management and co-invented Random Early Detection which is used in almost all Internet routers
 ## General Tools
 
 - [GitLab](https://gitlab.com/users/sign_in) - an independent alternative to Github that is not tied to any large corporation.
