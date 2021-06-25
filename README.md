@@ -26,6 +26,7 @@ This is a list of everything I currently use or have used in the past that I tho
 - 1989 [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee): Invented World Wide Web
 - 1991 [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds): Created the first version of the Linux kernel
 - 1994 [Sally Floyd](https://en.wikipedia.org/wiki/Sally_Floyd): Founded the field of Active Queue Management and co-invented Random Early Detection which is used in almost all Internet routers
+
 ## General Tools
 
 - [GitLab](https://gitlab.com/users/sign_in) - an independent alternative to Github that is not tied to any large corporation.
