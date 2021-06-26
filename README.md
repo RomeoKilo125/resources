@@ -6,7 +6,6 @@ This is a list of everything I currently use or have used in the past that I tho
 
 ## KNOW YOUR HISTORY
 
-
 - c.830 CE [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_M%C5%ABs%C4%81_al-Khw%C4%81rizm%C4%AB): Popularized the concept of the algorithm
 - c.850 CE [Banū Mūsā](https://en.wikipedia.org/wiki/Ban%C5%AB_M%C5%ABs%C4%81): Described what appears to be the first programmable machine
 - 1837 [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage): Originated the concept of a programmable general-purpose computer
