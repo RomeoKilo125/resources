@@ -70,10 +70,10 @@ Lots of public libraries include premium memberships just for having a library c
 
 Recommended starter courses:
 
-- [Programming Foundations: Real World Examples](https://www.lynda.com/Python-tutorials/Programming-Fundamentals-Real-World/418249-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3areal+world+programming%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
-- [Programming Foundations: Databases](https://www.lynda.com/SQL-tutorials/Programming-Foundations-Databases/784293-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aprogramming+foundations+databases%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
-- [Programming Foundations: Data Structures](https://www.lynda.com/Python-tutorials/Programming-Foundations-Data-Structures/751323-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aprogramming+foundations+databases%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
-- [Programming Foundataions: Algorithms](https://www.lynda.com/Software-Development-tutorials/Programming-Foundations-Algorithms/718636-2.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3aprogramming+foundations+databases%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+- [Programming Foundations: Real World Examples](https://www.linkedin.com/learning/programming-foundations-real-world-examples/)
+- [Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases/)
+- [Programming Foundations: Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2/)
+- [Programming Foundataions: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms/)
 
 ## Other Helpful things
 
