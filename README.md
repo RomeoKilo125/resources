@@ -83,6 +83,7 @@ Recommended starter courses:
 - [coolors.co](https://coolors.co/generate) - For those of us with no sense of color. This helps you generate color schemes that work.
 - [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/) - Emmet is a shortcut system that is VERY common. In fact, it's built into VS Code.
 - [Interactive Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)
+- [How To Create An Awesome Github Profile README](https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645)
 
 ## Teaching Games
 
@@ -132,7 +133,7 @@ More stuff for ideas and to keep abreast of the latest developments.
 - [publicdomainarchive](http://publicdomainarchive.com/)
 - [Normalize CSS](https://necolas.github.io/normalize.css/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [BaseCS](https://medium.com/basecs) - I haven't read through this one yet, but a casual glance looks promising.
+- [BaseCS](https://medium.com/basecs)
 - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
 - [React Responsive Navbar](http://objekt.click/2018/05/react-create-responsive-navbar/)
 - [33-js-concepts/README.md](https://github.com/leonardomso/33-js-concepts/blob/master/README.md)
