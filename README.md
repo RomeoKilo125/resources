@@ -148,7 +148,7 @@ More stuff for ideas and to keep abreast of the latest developments.
 - [Bootcamp Whiteboarding](https://coding-bootcamp-whiteboarding-algorithms.readthedocs-hosted.com/en/latest/) - a tutorial for the dreaded whiteboarding interview
 - [BoTW Korok Seed Locations](https://www.ign.com/wikis/the-legend-of-zelda-breath-of-the-wild/Korok_Seed_Locations)
 - [WRC Yaku Reference Sheet](https://worldriichi.org/s/WRC_Yaku_1_5_3.pdf)
-- Mac Terminal Command : `nc towel.blinkenlights.nl 23`
+- [Take your Github Profile to the Next Level](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
 
 ## VSCode Extensions
 
