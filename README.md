@@ -110,6 +110,8 @@ More stuff for ideas and to keep abreast of the latest developments.
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 - [Pro Git](https://git-scm.com/book/en/v2)
+- Test Driven Development by Kent Beck
+- Design Patterns: Elements of Reusable Object-Oriented Software by (the gang of four)
 
 ## Reference
 
@@ -152,7 +154,6 @@ More stuff for ideas and to keep abreast of the latest developments.
 
 ## VSCode Extensions
 
-- CoenraadS.bracket-pair-colorizer-2
 - DavidAnson.vscode-markdownlint
 - dbaeumer.vscode-eslint
 - eamodio.gitlens
@@ -182,4 +183,4 @@ More stuff for ideas and to keep abreast of the latest developments.
   - See the big words? Use those words on your resume -- authentically.
   - If you don’t have the skill, that tells you what your knowledge gaps are. Nice little 2 for 1 special in this activity.
 - How do I write a cover letter
-![cover letter instructions](./cover-letter.jpg)
+![cover letter instructions](./assets/cover-letter.jpg)
