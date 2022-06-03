@@ -85,7 +85,7 @@ Recommended starter courses:
 - [Interactive Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)
 - [How To Create An Awesome Github Profile README](https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645)
 
-## Teaching Games
+## CSS Teaching Games
 
 - [CSS Diner](https://flukeout.github.io/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
