@@ -137,7 +137,6 @@ More stuff for ideas and to keep abreast of the latest developments.
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [BaseCS](https://medium.com/basecs)
 - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
-- [React Responsive Navbar](http://objekt.click/2018/05/react-create-responsive-navbar/)
 - [33-js-concepts/README.md](https://github.com/leonardomso/33-js-concepts/blob/master/README.md)
 - [CSS Grid PlayGround | Terminology | Mozilla](https://mozilladevelopers.github.io/playground/css-grid/)
 - [javascript - How do I completely uninstall Node.js, and reinstall from beginning (Mac OS X) Stack Overflow](https://stackoverflow.com/questions/11177954/how-do-i-completely-uninstall-node-js-and-reinstall-from-beginning-mac-os-x")
@@ -146,8 +145,6 @@ More stuff for ideas and to keep abreast of the latest developments.
 - [range.css](http://danielstern.ca/range.css/#/)
 - [Database Indexes](https://use-the-index-luke.com/sql/preface) - How database indexes work
 - [PC upgrade guide](http://www.pcgamer.com/the-easy-pc-upgrade-guide/)
-- [Bootcamp Prework](https://coding-bootcamp-fsf-prework.readthedocs-hosted.com/en/latest/) - Useful to keep for new machine setup
-- [Bootcamp Whiteboarding](https://coding-bootcamp-whiteboarding-algorithms.readthedocs-hosted.com/en/latest/) - a tutorial for the dreaded whiteboarding interview
 - [BoTW Korok Seed Locations](https://www.ign.com/wikis/the-legend-of-zelda-breath-of-the-wild/Korok_Seed_Locations)
 - [WRC Yaku Reference Sheet](https://worldriichi.org/s/WRC_Yaku_1_5_3.pdf)
 - [Take your Github Profile to the Next Level](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
