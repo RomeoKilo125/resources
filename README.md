@@ -136,6 +136,7 @@ More stuff for ideas and to keep abreast of the latest developments.
 - [Normalize CSS](https://necolas.github.io/normalize.css/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [BaseCS](https://medium.com/basecs)
+- [Laws of UX](https://lawsofux.com/en/doherty-threshold/)
 - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
 - [33-js-concepts/README.md](https://github.com/leonardomso/33-js-concepts/blob/master/README.md)
 - [CSS Grid PlayGround | Terminology | Mozilla](https://mozilladevelopers.github.io/playground/css-grid/)
@@ -151,15 +152,12 @@ More stuff for ideas and to keep abreast of the latest developments.
 
 ## VSCode Extensions
 
-- DavidAnson.vscode-markdownlint
 - dbaeumer.vscode-eslint
 - eamodio.gitlens
 - emily-curry.base16-tomorrow-dark-vscode
 - mechatroner.rainbow-csv
 - PKief.material-icon-theme
 - rid9.datetime
-- ritwickdey.live-sass
-- ritwickdey.LiveServer
 - shd101wyy.markdown-preview-enhanced
 - techer.open-in-browser
 - tomoki1207.pdf
