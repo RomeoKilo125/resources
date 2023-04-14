@@ -78,7 +78,7 @@ Recommended starter courses:
 ## Other Helpful things
 
 - [CodePen](https://codepen.io/) - Just a playground where people put bits of code to show off to others. Sign up for the newsletter for continued inspiration and to pick up some cool tricks.
-- [CSS-Tricks](https://css-tricks.com/) - For when you have the question "How do I do _____ with CSS?"
+- [CSS-Tricks](https://css-tricks.com/) - For when you have the question "How do I do **\_** with CSS?"
 - [CSS Zen Garden](http://www.csszengarden.com/) - This is a cool bit of code that shows you the power of CSS. The HTML on every version of the page is the same. Just the CSS is different.
 - [coolors.co](https://coolors.co/generate) - For those of us with no sense of color. This helps you generate color schemes that work.
 - [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/) - Emmet is a shortcut system that is VERY common. In fact, it's built into VS Code.
@@ -152,15 +152,24 @@ More stuff for ideas and to keep abreast of the latest developments.
 
 ## VSCode Extensions
 
+- ChakrounAnas.turbo-console-log
 - dbaeumer.vscode-eslint
 - eamodio.gitlens
 - emily-curry.base16-tomorrow-dark-vscode
+- esbenp.prettier-vscode
+- foxundermoon.shell-format
+- jock.svg
+- jsynowiec.vscode-insertdatestring
 - mechatroner.rainbow-csv
+- mongodb.mongodb-vscode
+- ms-vscode.live-server
 - PKief.material-icon-theme
 - rid9.datetime
 - shd101wyy.markdown-preview-enhanced
 - techer.open-in-browser
+- Tobermory.es6-string-html
 - tomoki1207.pdf
+- WallabyJs.quokka-vscode
 
 ## Job Hunting
 
@@ -178,4 +187,4 @@ More stuff for ideas and to keep abreast of the latest developments.
   - See the big words? Use those words on your resume -- authentically.
   - If you don’t have the skill, that tells you what your knowledge gaps are. Nice little 2 for 1 special in this activity.
 - How do I write a cover letter
-![cover letter instructions](./assets/cover-letter.jpg)
+  ![cover letter instructions](./assets/cover-letter.jpg)
