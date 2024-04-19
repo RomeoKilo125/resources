@@ -4,6 +4,9 @@ This is a list of everything I currently use or have used in the past that I tho
 
 > This list is curated by a human being with their own perspective, it is neither exhaustive nor is it intended to promote any particular agenda.
 
+## IF YOU DO NOTHING ELSE, DO THIS!!!
+- [Git Training](https://github.com/UnseenWizzard/git_training)
+
 ## KNOW YOUR HISTORY
 
 - c.830 CE [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_M%C5%ABs%C4%81_al-Khw%C4%81rizm%C4%AB): Popularized the concept of the algorithm
@@ -43,11 +46,10 @@ This is a list of everything I currently use or have used in the past that I tho
   - Specifically [CrashCourse Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - This playlist doesn't talk about web development but it provides history and presents concepts (levels of abstraction) that are **super** helpful to putting everything in context.
 - [FreeCodeCamp](https://youtube.com/c/Freecodecamp) - TONS of good quality tutorials.
 - [computerphile](https://youtube.com/user/Computerphile) - This one is chock full of computer science history and concepts. The [videos about encryption and internet security](https://www.youtube.com/user/Computerphile/search?query=encryption) are particularly helpful for understanding those concepts.
-- [Layout Land](https://youtube.com/user/Computerphile) - Run by a developer at Mozilla and member of the CSS working group, this channel explains CSS concepts, new and old.
-- [Mozilla Developer](https://youtube.com/c/MozillaDeveloper) - I have this one on notifications. Every video on this channel is pure gold.
+- [Layout Land](https://www.youtube.com/@LayoutLand) - Run by a member of the CSS working group, this channel explains CSS concepts, new and old. Sadly, this also doesn't seem to be updated anymore, but what's there is still good.
+- [Mozilla Developer](https://youtube.com/c/MozillaDeveloper) - I have this one on notifications. But it doesn't seem like it's updated anymore. Every video on this channel is pure gold.
   - Start with [Why Is CSS So Weird?](https://youtu.be/aHUtMbJw8iA)
 - [Mozilla](https://youtube.com/user/Mozilla)
-- [Bootcamp Career Services](https://youtube.com/channel/UCKTSy3Jsa2zczjAptE7isyQ)
 
 ## Training
 
@@ -111,7 +113,7 @@ More stuff for ideas and to keep abreast of the latest developments.
 - [Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 - [Pro Git](https://git-scm.com/book/en/v2)
 - Test Driven Development by Kent Beck
-- Design Patterns: Elements of Reusable Object-Oriented Software by (the gang of four)
+- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Flissides
 
 ## Reference
 
@@ -130,7 +132,6 @@ More stuff for ideas and to keep abreast of the latest developments.
 
 ### Other Stuff
 
-- [Git Training](https://github.com/UnseenWizzard/git_training)
 - [CSS Font Stack](http://www.cssfontstack.com/)
 - [publicdomainarchive](http://publicdomainarchive.com/)
 - [Normalize CSS](https://necolas.github.io/normalize.css/)
