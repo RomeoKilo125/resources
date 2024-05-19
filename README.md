@@ -153,24 +153,25 @@ More stuff for ideas and to keep abreast of the latest developments.
 
 ## VSCode Extensions
 
-- ChakrounAnas.turbo-console-log
+- chakrounanas.turbo-console-log
+- davidanson.vscode-markdownlint
 - dbaeumer.vscode-eslint
 - eamodio.gitlens
 - emily-curry.base16-tomorrow-dark-vscode
-- esbenp.prettier-vscode
 - foxundermoon.shell-format
 - jock.svg
 - jsynowiec.vscode-insertdatestring
 - mechatroner.rainbow-csv
 - mongodb.mongodb-vscode
 - ms-vscode.live-server
-- PKief.material-icon-theme
+- pkief.material-icon-theme
 - rid9.datetime
+- ritwickdey.liveserver
 - shd101wyy.markdown-preview-enhanced
 - techer.open-in-browser
-- Tobermory.es6-string-html
+- tobermory.es6-string-html
 - tomoki1207.pdf
-- WallabyJs.quokka-vscode
+- wallabyjs.quokka-vscode
 
 ## Job Hunting
 
